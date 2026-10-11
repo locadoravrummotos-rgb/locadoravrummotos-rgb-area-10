@@ -130,7 +130,7 @@ export default function AdminPage() {
         <section style={{ marginTop: 35 }}>
           <h2>Bem-vindo à administração!</h2>
           <p>Seu acesso foi autorizado.</p>
-          <p>Próxima etapa: cadastro de produtos e controle de estoque.</p>
+          <p>Gestão de produtos e estoque da ÁREA 10</p>
           <button
             style={buttonStyle}
             onClick={() => {
